@@ -10,6 +10,6 @@ It shows service state, logs, and start time.
 
 **Small troubleshooting flow**
 If something is not working → check process → check service status → check logs.
-Commands: `ps`, `systemctl status service`, `journalctl -xe`.
+Commands: `ps`, `systemctl status service`, `journalctl -xe`
 
 
